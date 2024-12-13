@@ -10,8 +10,8 @@ The analysis was conducted using various data mining techniques and tools, with 
 1.	Download the Wine_Data_Mining_Analysis.docx file.
 2.	Open the file using a Word processor (e.g., Microsoft Word, Google Docs).
 3.	Follow the step-by-step guide in the document to:
-    - Understand the methodology.
-	  - Review the results of the analysis.
+   - Understand the methodology.
+   - Review the results of the analysis.
 
 ## Project Highlights
 1. Datasets: Red and white wine datasets with over 6,000 rows of data.
@@ -21,9 +21,9 @@ The analysis was conducted using various data mining techniques and tools, with 
 	-	Misclassification Rate
 	-	ROC Index
 	-	Root Average Squared Error (RASE)
-  - Accuracry
-  - Precision
-  - F1-Score
+  	- 	Accuracry
+  	- 	Precision
+  	- 	F1-Score
 
 ## Results
 The document provides a detailed summary of:
