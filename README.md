@@ -15,7 +15,10 @@ This project focuses on analyzing physicochemical properties of wine to predict 
 ## Key Contributions
 - Conducted end-to-end data mining, from preprocessing to evaluation.  
 - Evaluated models using metrics such as Misclassification Rate, ROC Index, RASE for prediction of quality of wine while Accuracy, Precision and F1-score for classification of red wine and white wine.  
-- Provided actionable insights into factors affecting wine quality and classification.  
+- Provided actionable insights into factors affecting wine quality and classification.
+
+## Report 
+- To view the report, please click on https://drive.google.com/drive/folders/1sbxY2UFtF-EAh09NZ1FnRzJJJpTc_e_d?usp=share_link
 
 ## How to Use
 1. Clone the repository:  
